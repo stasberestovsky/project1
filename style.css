@@ -1,0 +1,106 @@
+.b-page {
+    width:100%;
+    margin:0;
+    background-color:#f7f7f7;  
+}
+
+.b-page__head-line {
+    background-color:white;
+    height:50px;
+    width:100%;
+}
+
+.iconfootball {
+	padding-top:20px;
+	margin-left:100px;	
+}
+
+.top-menu {
+    margin-top:0px;
+    margin-left:0px;   
+    width:100%;
+    display:table;
+    table-layout: fixed;   
+}
+
+.block-menu {   
+    text-align:center;
+    color:white;
+    font-size:14px;
+    height:38px;
+    background-color:black;
+    line-height:38px;
+    border: 1px solid green;
+    display:table-cell;
+    text-decoration: none;
+}
+
+.block-menu:hover {
+    background-color:green;
+    border:1px solid black;
+}
+
+.info {
+	margin-right:25%;
+	margin-left:25%;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	border: 1px solid black;
+	height:900px;
+	background-color:white;
+}
+
+h1 {
+	text-align:center;
+}
+
+em {
+	font-weight:bold;
+}
+
+h2 {	
+	padding-left:20px;
+}
+
+p { 
+    font-weight: normal; 
+	padding-right:20px;
+	font-size:15px;
+}
+.imgleft {
+	margin-right:10px; 
+	float:left;
+}
+
+.imgleft:hover {
+	transform:scale(1.1);	
+}
+
+.footer {	
+	height:100px;
+	background:black;  
+    margin: 0px ;
+    padding: 10px;
+	padding-left:250px;
+	padding-top:75px;
+}
+
+.social {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+.social-vk {   
+   background: url("https://sawtech.ru/wp-content/uploads/2013/05/ikonki.png") 170px 180px;
+}
+
+.social-fb {
+	 background: white url("https://sawtech.ru/wp-content/uploads/2013/05/ikonki.png") -20px 180px;
+}
+
+.social-tw {
+   background: url("https://sawtech.ru/wp-content/uploads/2013/05/ikonki.png") 89px 180px;
+}
+
